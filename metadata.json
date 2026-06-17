@@ -1,5 +1,6 @@
 {
-  "name": "News Assignment Editor",
-  "description": "A contemporary newsroom assignment and event calendar for T&T media organizations.",
-  "requestFramePermissions": []
+  "name": "Newsroom AI by Melissa Doughty",
+  "description": "AI-powered editorial management tool for modern newsrooms. Streamline assignments, localize world news, and boost engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
